@@ -19,6 +19,12 @@
       "source": "./plugins/handoff",
       "description": "Pass work from one AI chat to the next without re-explaining: a self-contained note on the way out, a quick check-and-archive on the way in.",
       "category": "productivity"
+    },
+    {
+      "name": "tldr",
+      "source": "./plugins/tldr",
+      "description": "One command to take stock of a chat: a quick status that keeps the chat open, or a clean close-out that leaves nothing behind.",
+      "category": "productivity"
     }
   ]
 }

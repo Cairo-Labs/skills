@@ -1,0 +1,11 @@
+{
+  "name": "tldr",
+  "description": "One command to take stock of a chat: a quick status that keeps the chat open, or a clean close-out that leaves nothing behind.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cairo Labs",
+    "url": "https://cairolabs.ai"
+  },
+  "homepage": "https://github.com/Cairo-Labs/skills/tree/main/plugins/tldr",
+  "license": "MIT"
+}
