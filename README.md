@@ -23,7 +23,7 @@ More are on the way.
 /plugin install brief-me@cairo-skills
 ```
 
-**Claude (web, desktop or mobile app):** download the skill's zip from the [Releases](https://github.com/Cairo-Labs/skills/releases) page, then upload it under Settings > Capabilities > Skills.
+**Claude (web, desktop or mobile app):** download the skill's zip from the [Releases](https://github.com/Cairo-Labs/skills/releases) page, then upload it in the Claude app's Skills settings.
 
 **ChatGPT, Gemini or any other AI:** open the skill's `SKILL.md`, copy everything below the top block (the lines between the `---` markers), and paste it into your custom instructions or a project's instructions.
 

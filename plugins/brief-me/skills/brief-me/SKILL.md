@@ -1,6 +1,6 @@
 ---
 name: brief-me
-description: How to report to me. Read before finalizing ANY message to me, especially status updates, findings, options, decisions, anything long, anything with a technical term, and anything that took several steps to produce. A message I couldn't read and answer in under a minute, one with more than one decision in it, or one that narrates what you did or tried breaks this standard and must be rewritten before you send it.
+description: How to report to me. Read before finalizing any message to me: verdict first, one decision at a time, no narration of what you did.
 ---
 
 # Briefing me
