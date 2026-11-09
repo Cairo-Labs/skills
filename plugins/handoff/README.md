@@ -4,6 +4,8 @@ Pass work from one AI chat to the next without re-explaining: a self-contained n
 
 **Works with any AI, not just Claude.** A skill is just a set of written rules. Share it with your AI of choice and ask it to fit the skill to you; it will help you edit and revise it until the rules are yours.
 
+**Tested with Claude, GPT and Gemini.**
+
 The skill itself: [skills/handoff/SKILL.md](skills/handoff/SKILL.md)
 
 The story behind it: [Skill "Handoff": Starting a Fresh Chat Without Starting Over](https://cairoglyphics.ai/posts/handoff-fresh-chat-without-starting-over/)

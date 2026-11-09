@@ -4,6 +4,8 @@ Makes your AI report like a good chief of staff: verdict first, one decision at 
 
 **Works with any AI, not just Claude.** A skill is just a set of written rules. Share it with your AI of choice and ask it to fit the skill to you; it will help you edit and revise it until the rules are yours.
 
+**Tested with Claude, GPT and Gemini.**
+
 The skill itself: [skills/brief-me/SKILL.md](skills/brief-me/SKILL.md)
 
 The story behind it: [Skill "Brief-Me": I Taught My AI to Brief Me Like a CEO](https://cairoglyphics.ai/posts/brief-me-like-a-ceo/)
