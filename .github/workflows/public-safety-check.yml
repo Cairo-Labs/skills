@@ -1,0 +1,16 @@
+name: Public safety check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan for private addresses, paths, secrets and emails
+        run: bash scripts/check-public.sh
+      - name: Validate plugin manifests
+        run: |
+          python3 -m json.tool .claude-plugin/marketplace.json > /dev/null
+          for f in plugins/*/.claude-plugin/plugin.json; do python3 -m json.tool "$f" > /dev/null; done
+          for d in plugins/*/skills/*/; do test -f "$d/SKILL.md" || { echo "missing SKILL.md in $d"; exit 1; }; done
