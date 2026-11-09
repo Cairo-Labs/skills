@@ -1,0 +1,11 @@
+{
+  "name": "brief-me",
+  "description": "Makes your AI report like a good chief of staff: verdict first, one decision at a time, no narration of its homework.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cairo Labs",
+    "url": "https://cairolabs.ai"
+  },
+  "homepage": "https://github.com/Cairo-Labs/skills/tree/main/plugins/brief-me",
+  "license": "MIT"
+}

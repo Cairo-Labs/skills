@@ -1,0 +1,18 @@
+{
+  "name": "cairo-skills",
+  "owner": {
+    "name": "Cairo Labs",
+    "url": "https://cairolabs.ai"
+  },
+  "metadata": {
+    "description": "Skills Mike Landry uses every day to work with AI, shared by Cairo Labs."
+  },
+  "plugins": [
+    {
+      "name": "brief-me",
+      "source": "./plugins/brief-me",
+      "description": "Makes your AI report like a good chief of staff: verdict first, one decision at a time, no narration of its homework.",
+      "category": "productivity"
+    }
+  ]
+}
