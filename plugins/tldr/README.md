@@ -4,6 +4,8 @@ One command to take stock of a chat: a quick status that keeps the chat open, or
 
 **Works with any AI, not just Claude.** A skill is just a set of written rules. Share it with your AI of choice and ask it to fit the skill to you; it will help you edit and revise it until the rules are yours.
 
+**Tested with Claude and GPT.** Gemini follows the format, but in our test it sometimes reported work as done without checking it. If you use Gemini, ask it to show how it checked anything it calls done.
+
 The skill itself: [skills/tldr/SKILL.md](skills/tldr/SKILL.md)
 
 The story behind it: [Skill "TLDR": One Command to Check In On a Chat or Close It Out](https://cairoglyphics.ai/posts/tldr-status-or-close/)

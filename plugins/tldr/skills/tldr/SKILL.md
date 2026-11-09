@@ -20,6 +20,8 @@ Anything that isn't clearly "close" is status. Never close on a guess.
 
 - Read back through this chat and sort everything into: done, in progress, open.
 - **Check before you report.** "Done" needs proof: the saved file, the finished result, the item on the list. If you haven't checked it, call it "claimed", not done. A recap from memory lists work that's already finished.
+- **Never report something as done or handled unless you did it or checked it yourself, right now.** Something the chat said was underway ("the deploy is running") or promised for later ("I'll fix it after") is still open until you check. If you can't check it, list it as claimed or still open, and never as handled.
+- **Nothing drops off the report.** Every task, promise and question from this chat appears exactly once: done (checked), claimed (not checked), in progress, or open.
 - **Document check:** list anything decided or learned here that isn't written down anywhere yet. Test: if this chat closed right now, what would be lost? Write each one down now, or treat it as open.
 - **Sort the open items by owner:**
   - Yours (the AI's): anything you can find, check, draft or fix yourself. Do it now, without asking. Only stop for something destructive or hard to undo.
