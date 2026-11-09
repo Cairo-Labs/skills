@@ -4,6 +4,8 @@ Skills I use every day to work with AI, cleaned up so you can use them too.
 
 A skill is a short instruction file your AI reads before it does a certain kind of task. Write the rule once, and the AI follows it every time. Each skill here started as a correction I got tired of repeating.
 
+**They work with any AI, not just Claude.** A skill is just a set of written rules. Share one with your AI of choice and ask it to fit the skill to you; it will help you edit and revise it until the rules are yours.
+
 Mike Landry, [Cairo Labs](https://cairolabs.ai)
 
 ## The skills
