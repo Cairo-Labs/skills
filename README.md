@@ -11,6 +11,7 @@ Mike Landry, [Cairo Labs](https://cairolabs.ai)
 | Skill | What it does | The story |
 |---|---|---|
 | [brief-me](plugins/brief-me/skills/brief-me/SKILL.md) | Makes your AI report like a good chief of staff: verdict first, one decision at a time, no narration of its homework. | [I Taught My AI to Brief Me Like a CEO](https://cairoglyphics.ai/posts/brief-me-like-a-ceo/) |
+| [handoff](plugins/handoff/skills/handoff/SKILL.md) | Pass work from one AI chat to the next without re-explaining: a self-contained note on the way out, a quick check-and-archive on the way in. | [Skill "Handoff": Starting a Fresh Chat Without Starting Over](https://cairoglyphics.ai/posts/handoff-fresh-chat-without-starting-over/) |
 
 More are on the way.
 
@@ -21,6 +22,7 @@ More are on the way.
 ```
 /plugin marketplace add Cairo-Labs/skills
 /plugin install brief-me@cairo-skills
+/plugin install handoff@cairo-skills
 ```
 
 **Claude (web, desktop or mobile app):** download the skill's zip from the [Releases](https://github.com/Cairo-Labs/skills/releases) page, then upload it in the Claude app's Skills settings.

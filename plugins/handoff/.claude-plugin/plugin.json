@@ -1,0 +1,11 @@
+{
+  "name": "handoff",
+  "description": "Pass work from one AI chat to the next without re-explaining: a self-contained note on the way out, a quick check-and-archive on the way in.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cairo Labs",
+    "url": "https://cairolabs.ai"
+  },
+  "homepage": "https://github.com/Cairo-Labs/skills/tree/main/plugins/handoff",
+  "license": "MIT"
+}
