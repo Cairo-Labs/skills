@@ -15,6 +15,7 @@ Mike Landry, [Cairo Labs](https://cairolabs.ai)
 | [brief-me](plugins/brief-me/skills/brief-me/SKILL.md) | Makes your AI report like a good chief of staff: verdict first, one decision at a time, no narration of its homework. | [I Taught My AI to Brief Me Like a CEO](https://cairoglyphics.ai/posts/brief-me-like-a-ceo/) |
 | [handoff](plugins/handoff/skills/handoff/SKILL.md) | Pass work from one AI chat to the next without re-explaining: a self-contained note on the way out, a quick check-and-archive on the way in. | [Skill "Handoff": Starting a Fresh Chat Without Starting Over](https://cairoglyphics.ai/posts/handoff-fresh-chat-without-starting-over/) |
 | [tldr](plugins/tldr/skills/tldr/SKILL.md) | One command to take stock of a chat: a quick status that keeps the chat open, or a clean close-out that leaves nothing behind. | [Skill "TLDR": One Command to Check In On a Chat or Close It Out](https://cairoglyphics.ai/posts/tldr-status-or-close/) |
+| [work-claim](plugins/work-claim/skills/work-claim/SKILL.md) | Stop two AI chats or agents from doing the same job at once: check a shared claims list, claim the task, release it with the outcome. | [Skill "Work-Claim": Stop Two AIs From Doing the Same Job](https://cairoglyphics.ai/posts/work-claim-stop-ai-doing-same-job-twice/) |
 
 More are on the way.
 
@@ -27,6 +28,7 @@ More are on the way.
 /plugin install brief-me@cairo-skills
 /plugin install handoff@cairo-skills
 /plugin install tldr@cairo-skills
+/plugin install work-claim@cairo-skills
 ```
 
 **Claude (web, desktop or mobile app):** download the skill's zip from the [Releases](https://github.com/Cairo-Labs/skills/releases) page, then upload it in the Claude app's Skills settings.

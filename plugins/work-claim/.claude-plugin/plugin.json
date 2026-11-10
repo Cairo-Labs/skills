@@ -1,0 +1,11 @@
+{
+  "name": "work-claim",
+  "description": "Stop two AI chats or agents from doing the same job at once: check a shared claims list, claim the task, release it with the outcome.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cairo Labs",
+    "url": "https://cairolabs.ai"
+  },
+  "homepage": "https://github.com/Cairo-Labs/skills/tree/main/plugins/work-claim",
+  "license": "MIT"
+}
