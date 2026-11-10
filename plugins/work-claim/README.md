@@ -4,6 +4,8 @@ Stop two AI chats or agents from doing the same job at once: check a shared clai
 
 **Works with any AI, not just Claude.** A skill is just a set of written rules. Share it with your AI of choice and ask it to fit the skill to you; it will help you edit and revise it until the rules are yours.
 
+**Tested with Claude, GPT and Gemini.**
+
 The skill itself: [skills/work-claim/SKILL.md](skills/work-claim/SKILL.md)
 
 The story behind it: [Skill "Work-Claim": Stop Two AIs From Doing the Same Job](https://cairoglyphics.ai/posts/work-claim-stop-ai-doing-same-job-twice/)
